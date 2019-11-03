@@ -1,0 +1,2 @@
+# tichtadi
+educational bizz
